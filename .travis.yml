@@ -1,9 +1,8 @@
 deploy:
   provider: heroku
   api_key:
-    secure: "cd53f97d-4982-4d00-8d34-c8c2bd8836f9"
-  app: afternoon-dawn-73274 
-
+    secure: cNBoYOiSslfHxdvrWJBM90VaIibcKeZAn9T8NxoEHYnAKupOxluL95dhtBP+Al45WJk8ZXCSSOUbhDES2MnwywvXMa4kBu2TrXRdnpt6tLH5xExmiEOEl9SbcZiOgenHV+0dL3MzkjCMaTuFMpRi1lEfJkzOC+RvfLZUnE25vBncdZZYJ6hXqglng16Dx7vzfaLn8dOlR3aM66xttzZ31mAUCXltSudDCd8K/PLJkrNrP1ANuEyvb/hCEZsNCNZQI6pxcbZJ/ErNUhP2QSXZZwE4LPl8BsqJm9kkV0S7fAqPAT7+jRK/jfH4MjvHf0cY2GmmQ5DyZ4GwAJeDor4hWNDNzI8fW3Y8cc6RLrtWa4VIRN3JJ+EXeLY0G54HzQ9oikd1z+WplR7V1wyhDQnxMrsU+VlreQkx8iSMqldKqjFhf3Mio0tIH6vV1IsfVgImVEGm6t0Ucj+M3pF5xKS9SEsjtkorJE2lmPkQeKX99c5U1veWbHQlH7GveWzAvEkFjQQxeV569t+l8uTXuh7/Y2e0x9krl69M1roL7li7l1CPHUwoC5//NvCs5ZDbZF0ScXPHb7fUWWLGKUMJr+fHvISw9tdg/Hup7rK+p/vfJNu20rK48k5sbV56KuGTnInoMTlTlZqzDzV8vgC+RJ7uozRxQXRVvKE8NRa+1fC4pn4=
+  app: afternoon-dawn-73274
 language: node_js
 node_js:
-- '6.11.2'
+- 6.11.2
